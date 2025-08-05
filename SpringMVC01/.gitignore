@@ -1,0 +1,18 @@
+# Eclipse/STS 관련
+.project
+.classpath
+.settings/
+
+# 빌드 파일
+target/
+bin/
+
+# 로그/임시 파일
+*.log
+*.tmp
+*.swp
+*~
+
+# OS 불필요 파일
+.DS_Store
+Thumbs.db
